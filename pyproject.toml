@@ -3,3 +3,4 @@ name = "spark-doctor"
 version = "0.1.0"
 description = "Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, UMA pressure, thermal risk, CUDA 13/SM_121 wheel mismatches, Docker issues, and validates vLLM/Ollama/llama.cpp/SGLang recipes."
 requires-python = ">=3.10"
+# keep defaults in sync with the manifest
