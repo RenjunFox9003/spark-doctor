@@ -6,3 +6,4 @@ Notes and usage details for spark-doctor.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
